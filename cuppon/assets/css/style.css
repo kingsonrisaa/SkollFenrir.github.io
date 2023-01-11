@@ -1,0 +1,83 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.f300 { 
+    font-weight: 300;
+    
+}
+
+
+
+.verde {
+    background-color: #28A745;
+}
+
+
+.logoheader img {
+    width: 86pt;
+    height: 25pt;
+}
+
+.card img {
+    border: 0pt;
+    padding: 0pt;
+    margin: 0pt;
+    width: 278pt;
+    height: 180pt;
+}
+
+.tarjeta {
+    width: 278pt; 
+    height: 379pt;
+}
+
+.promo {
+    font-size: 20pt;
+    text-align: left;
+    line-height: 24pt;
+}
+
+.tienda {
+    font-size: 16pt;
+    line-height: 19pt;
+}
+
+.ubicacion {
+    font-size: 13pt;
+    line-height: 15pt;
+}
+
+.precio {
+    font-size: 16pt;
+    line-height: 19pt;
+}
+
+.oferta {
+    padding-left: 1rem;
+    font-size: 20pt;
+    line-height: 24pt;
+    color: #28A745;
+    font-weight: 500;
+}
+
+.precios p {
+    display: inline-block;
+}
+
+input {
+    width: 834pt;
+}
+
+footer img {
+    height: 24pt;
+    width: 82pt;
+}
+
+footer p {
+    font-size: 16pt;
+}
+
