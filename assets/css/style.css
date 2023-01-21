@@ -4,11 +4,16 @@
     padding: 0%;
 }
 
-h1 {
-    background-color: rgb(210, 231, 248);
-    height: 4rem;
+body {
+    background-color: #d8d7d7;
 }
 
-article {
-    background-color: rgb(243, 243, 147);
+.back {
+    transition: box-shadow 0.3s ease ;
+    background-color: rgb(189, 186, 186);
+    padding: 0;
+}
+
+.back:hover {
+    box-shadow: 0 0.1rem 0.4rem rgba(0,0,0, 0.3);
 }
